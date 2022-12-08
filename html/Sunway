@@ -1,0 +1,13 @@
+print('WELCOME TO SUNNWAY CHARACTER CHECK SYSTEM')
+print('MAITIDEVI, KATHAMANDU')
+print()
+print()
+
+userInput = input("Enter the word to calculate")
+upCase = 0
+lowCase = 0
+numericData = 0
+specialCharacter = 0
+
+for i in range(len(userInput)):
+    if 'a' <= userInput[i]<=
